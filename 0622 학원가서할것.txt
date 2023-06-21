@@ -1,0 +1,23 @@
+
+
+학원을 간다 - 깃허브 저장소도 새거 만들고-컴퓨터 폴더도 새거만들고 
+기존에 하던 폴더에서 .git 만 지우고 거기서 git bash 키고 
+git init  치고 git add . 하고 git commit -m "1" 하고 git remote add origin 깃url
+
+git push origin master 하면 정상적이라면 새 저장소에 올라간다.
+
+그날 프로젝트 끝나면 git add . > git commit -m "메시지">git push origin maser
+
+집을와 
+집오면 
+빈폴더에 git init 으로 시작하고  git clone 깃링크 - 상위폴더로 cd 해서 경로바꾸고 
+ 파일 추가되면 git add .하고 git commit -m "메시지" git push origin master 
+
+다음날 학원가면
+컴퓨터를 키고 그 폴더 경로에 git pull origin master 
+또 집갈때 git add . git commit -m "s1"  git push origin master 
+
+집오면 
+
+
+
